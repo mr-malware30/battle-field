@@ -6,4 +6,4 @@ AND THIS FILE by kumarsing new changes
 LET'S TRY TO PULL THIS TO OUR LOCAL REPO
 BYE BYE..............!!!
 study conflict managing
-create a conflict
+resolving conflict
