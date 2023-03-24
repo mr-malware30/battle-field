@@ -1,2 +1,3 @@
-this is a dummy file.
-dont use this text file.
+this is not a dummy file.
+In future it wil be a master file.
+
