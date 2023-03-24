@@ -1,4 +1,2 @@
-THIS IS THE THIRD FILE 
-AND THIS FILE by kumarsing
-LET'S TRY TO PULL THIS TO OUR LOCAL REPO
-BYE BYE..............!!!
+This is the new file in the file named as "file-3"
+this line alone should be in this file
